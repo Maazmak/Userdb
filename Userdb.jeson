@@ -18,7 +18,7 @@
         "username": "maaz",
         "password": "bhai",
         "expirydate": "13-08-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 
 {
